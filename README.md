@@ -1,4 +1,7 @@
-Our project Chaitanya is an all-inclusive platform targeted towards the rural segment of the Indian population. Project consists of three main domains –
+Our project Chaitanya is an all-inclusive platform targeted towards the rural segment of the Indian population.
+Project consists of three main domains –
+
+
 • An all in one solution for the problems faced by the farmers :
         This project is a step towards precision agriculture, where our product acts as an assistant for a farmer using the drones. This involves nine functionalities related to agricultural practices, ranging from weed detection, disease detection, crop recommendation, and yield prediction, which farmers need on a daily basis.This project was created using ML and CNN algorithms for all the functionalities and Flask as a model deployment tool for user interfaces.
 
